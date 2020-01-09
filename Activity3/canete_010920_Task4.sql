@@ -1,0 +1,1 @@
+select dept_code, crs_description from "010920".course where crs_credit = 3

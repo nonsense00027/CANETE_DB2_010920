@@ -1,0 +1,1 @@
+select emp_lname, emp_fname, emp_initial from "010920".employee where emp_jobcode = 'TECH'
